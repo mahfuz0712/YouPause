@@ -44,7 +44,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please contact:
 - **Email**: mahfuzrahman0712@gmail.com
-- **GitHub**: [your-github-profile](https://github.com/mahfuz0712)
+- **GitHub**: [Profile](https://github.com/mahfuz0712)
 
 ## Acknowledgments
 
