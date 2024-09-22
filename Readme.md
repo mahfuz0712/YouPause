@@ -8,21 +8,15 @@ YouPause is a Chrome extension designed to enhance your video-watching experienc
 
 ## Features
 
-- **Easy Pause/Resume**: Quickly pause and resume video playback with a single click.
-- **Keyboard Shortcuts**: Use customizable keyboard shortcuts for instant control.
+- **Easy Pause/Resume**: Quickly pause and resume video playback automatically when you close the youtube window or switch to a different window.
 - **User-Friendly Interface**: A clean and simple design that integrates seamlessly with your browser.
-- **Supports Multiple Platforms**: Works with popular video streaming sites like YouTube, Vimeo, and more.
+- **Supports Only With Youtube**: Works with only  YouTube.
 
 ## Installation
 
 1. Download the latest version of YouPause from the [Chrome Web Store](link-to-chrome-store).
 2. Click on the "Add to Chrome" button.
 3. Follow the prompts to install the extension.
-
-## Usage
-
-- **Pausing a Video**: Click the YouPause icon in the toolbar or use your defined keyboard shortcut to pause the video.
-- **Resuming Playback**: Click the icon again or use the shortcut to resume.
 
 ## Customization
 
@@ -49,8 +43,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For any questions or support, please contact:
-- **Email**: your-email@example.com
-- **GitHub**: [your-github-profile](link-to-your-github)
+- **Email**: mahfuzrahman0712@gmail.com
+- **GitHub**: [your-github-profile](https://github.com/mahfuz0712)
 
 ## Acknowledgments
 
